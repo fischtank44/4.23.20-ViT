@@ -1,0 +1,20 @@
+p {
+    color: blue
+}
+
+#square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: red;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    margin-bottom: 2em;
+
+}
+
+p {
+    color: white;
+    
+}
